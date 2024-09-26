@@ -1,6 +1,4 @@
 # FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ``` 
 Developed by: ANTHONY RAJ
 RegisterNumber: 212223230017
